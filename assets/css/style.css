@@ -390,11 +390,11 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   text-transform: uppercase;
-  color: #2c4964;
+  color: white;
 }
 
 #hero h2 {
-  color: #2c4964;
+  color: white;
   margin: 10px 0 0 0;
   font-size: 24px;
 }
@@ -937,4 +937,12 @@ section {
   background: #1c84e3;
   color: #fff;
   text-decoration: none;
+}
+
+.fortnight h2{
+  color: white;
+}
+
+.fortnight p{
+  color: white;
 }
